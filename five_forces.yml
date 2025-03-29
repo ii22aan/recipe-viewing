@@ -1,0 +1,70 @@
+# This file is in YAML format.  You must ensure that the punctuation
+# and whitespace is preserved.  Also, beware of ':' and quotation mark
+# characters: these have meaning in YAML and so must be "escaped" by
+# enclosing the entire field in (single) quotation marks, or using the multi-line string formatting characters ('|' for preserving newlines, '>' for folding newlines).
+# See the YAML specification  (https://yaml.org/spec/1.2.2/) or the wikipedia page about YAML (https://en.wikipedia.org/wiki/YAML).
+# Also, Educative has a nice YAML tutorial (https://www.educative.io/blog/yaml-tutorial) that gives a nice rationale for learning YAML.
+
+# Do NOT use Windows Notepad to edit this file; use a real programming
+# editor like Notepad++ instead.
+
+# Write your group name exactly as it appears on Canvas.
+group: Group 07
+
+# Write the names of your group members as a comma-separated list
+# within the square brackets.
+members: [Jenelle Davelaar, Isaiah Ibori, Esmond Cole]
+
+# Write a short description of your application
+topic: RecipeRatings is designed to give users an easy and engaging way to discover the most popular recipes at the moment. 
+
+# For the following sections, you may write multiple paragraphs, each
+# with multiple lines, under the key. But be sure *every* line is
+# indented at the same level as the first line under the key (see
+# `example.yml` for examples).
+
+# Note that the '>' character means the text spanning multiple lines
+# should be concatenated into a single paragraph.  Paragraphs are
+# separated by blank lines, and *all* lines must be indented.
+
+# Write your assessment of the rivalry between existing competitors.
+competitor_rivalry: >
+  The online recipe space is highly competitive, with well-established 
+  platforms like AllRecipes, Food Network, and Yummly dominating the market. 
+  Other competitors are food blogs, YouTube cooking channels, and social media 
+  recipe influencers who share trending recipes.
+
+# Write your assessment of the threat of new entrants.
+new_entrant_threat: >
+  Entry barriers are relatively low, as new recipe websites can be launched 
+  with minimal investment. But gaining traction requires partnerships and an 
+  engaged user base. Existing platforms already have brand loyalty and 
+  user-generated content, making it harder for newcomers to gain visibility.
+
+# Write your assessment of the threat of substitute products or services.
+substitute_threat: >
+  Substitutes include traditional cookbooks, TV cooking shows, 
+  social media platforms like Instagram, TikTok, 
+  and even AI-powered recipe generators.
+
+# Write your assessment of the bargaining power of customers.  
+customer_power: >
+  Users have many free alternatives, meaning their loyalty isn’t guaranteed. 
+  If they don’t find value in RecipeRatings (e.g., unique recipes, an engaging UI, or a strong community), 
+  they can easily switch to competitors. To keep users the site could incorporate gamification, rewards for engagement, 
+  or AI-powered personalized suggestions.
+
+# Write your assessment of the bargaining power of suppliers.
+supplier_power: >
+  Suppliers in this case would be content creators, bloggers, or even AI-generated recipe databases.
+  High-quality recipe content is widely available, but building partnerships with chefs, influencers, 
+  or food brands could differentiate the platform.
+
+# Write your conclusion regarding the appropriate competitive strategy to pursue, based on
+# your assessments above.
+competitive_strategy: >
+  To stand out in the crowded recipe space, RecipeRatings should focus on personalization and community engagement. 
+  Using AI to recommend recipes based on user preferences can make the platform feel more tailored. Encouraging users to rate,
+  review, and share their own recipes will build a sense of community. Partnering with food influencers and offering 
+  rewards for engagement can also help attract and keep users. By creating a more interactive and personalized experience, 
+  RecipeRatings can set itself apart from bigger competitors.
